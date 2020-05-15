@@ -1,0 +1,58 @@
+D:\Materi Kuliah\PBO\Praktikum\TA\WikiPenyakit\bin\Debug\DatabaseDokter.mdf
+D:\Materi Kuliah\PBO\Praktikum\TA\WikiPenyakit\bin\Debug\DatabaseDokter_log.ldf
+D:\Materi Kuliah\PBO\Praktikum\TA\WikiPenyakit\bin\Debug\DatabasePenyakit.mdf
+D:\Materi Kuliah\PBO\Praktikum\TA\WikiPenyakit\bin\Debug\DatabasePenyakit_log.ldf
+D:\Materi Kuliah\PBO\Praktikum\TA\WikiPenyakit\bin\Debug\Dokter\DatabaseDokter.mdf
+D:\Materi Kuliah\PBO\Praktikum\TA\WikiPenyakit\bin\Debug\Dokter\DatabaseDokter_log.ldf
+D:\Materi Kuliah\PBO\Praktikum\TA\WikiPenyakit\bin\Debug\Penyakit\DatabasePenyakit.mdf
+D:\Materi Kuliah\PBO\Praktikum\TA\WikiPenyakit\bin\Debug\Penyakit\DatabasePenyakit_log.ldf
+D:\Materi Kuliah\PBO\Praktikum\TA\WikiPenyakit\bin\Debug\EntityFramework.dll
+D:\Materi Kuliah\PBO\Praktikum\TA\WikiPenyakit\bin\Debug\EntityFramework.SqlServer.dll
+D:\Materi Kuliah\PBO\Praktikum\TA\WikiPenyakit\bin\Debug\EntityFramework.xml
+D:\Materi Kuliah\PBO\Praktikum\TA\WikiPenyakit\bin\Debug\EntityFramework.SqlServer.xml
+D:\Materi Kuliah\PBO\Praktikum\TA\WikiPenyakit\obj\Debug\TugasPBO.csprojResolveAssemblyReference.cache
+D:\Materi Kuliah\PBO\Praktikum\TA\WikiPenyakit\obj\Debug\TugasPBO.FormLain.EditPenyakitForm.resources
+D:\Materi Kuliah\PBO\Praktikum\TA\WikiPenyakit\obj\Debug\TugasPBO.FormLain.LoginForm.resources
+D:\Materi Kuliah\PBO\Praktikum\TA\WikiPenyakit\obj\Debug\TugasPBO.FormLain.RegisterForm.resources
+D:\Materi Kuliah\PBO\Praktikum\TA\WikiPenyakit\obj\Debug\TugasPBO.MainForm.resources
+D:\Materi Kuliah\PBO\Praktikum\TA\WikiPenyakit\obj\Debug\TugasPBO.Properties.Resources.resources
+D:\Materi Kuliah\PBO\Praktikum\TA\WikiPenyakit\obj\Debug\TugasPBO.csproj.GenerateResource.Cache
+D:\Materi Kuliah\PBO\Praktikum\TA\WikiPenyakit\obj\Debug\TugasPBO.csproj.CoreCompileInputs.cache
+D:\Materi Kuliah\PBO\Praktikum\TA\WikiPenyakit\obj\Debug\WikiPenyakit.exe.manifest
+D:\Materi Kuliah\PBO\Praktikum\TA\WikiPenyakit\obj\Debug\WikiPenyakit.application
+D:\Materi Kuliah\PBO\Praktikum\TA\WikiPenyakit\obj\Debug\WikiPenyakit.exe
+D:\Materi Kuliah\PBO\Praktikum\TA\WikiPenyakit\obj\Debug\WikiPenyakit.pdb
+D:\Materi Kuliah\PBO\Praktikum\TA\WikiPenyakit\bin\Debug\WikiPenyakit.exe.config
+D:\Materi Kuliah\PBO\Praktikum\TA\WikiPenyakit\bin\Debug\WikiPenyakit.exe.manifest
+D:\Materi Kuliah\PBO\Praktikum\TA\WikiPenyakit\bin\Debug\WikiPenyakit.application
+D:\Materi Kuliah\PBO\Praktikum\TA\WikiPenyakit\bin\Debug\WikiPenyakit.exe
+D:\Materi Kuliah\PBO\Praktikum\TA\WikiPenyakit\bin\Debug\WikiPenyakit.pdb
+D:\Materi Kuliah\PBO\Praktikum\TA UAS\WikiPenyakit\bin\Debug\DatabaseDokter.mdf
+D:\Materi Kuliah\PBO\Praktikum\TA UAS\WikiPenyakit\bin\Debug\DatabaseDokter_log.ldf
+D:\Materi Kuliah\PBO\Praktikum\TA UAS\WikiPenyakit\bin\Debug\DatabasePenyakit.mdf
+D:\Materi Kuliah\PBO\Praktikum\TA UAS\WikiPenyakit\bin\Debug\DatabasePenyakit_log.ldf
+D:\Materi Kuliah\PBO\Praktikum\TA UAS\WikiPenyakit\bin\Debug\Dokter\DatabaseDokter.mdf
+D:\Materi Kuliah\PBO\Praktikum\TA UAS\WikiPenyakit\bin\Debug\Dokter\DatabaseDokter_log.ldf
+D:\Materi Kuliah\PBO\Praktikum\TA UAS\WikiPenyakit\bin\Debug\Penyakit\DatabasePenyakit.mdf
+D:\Materi Kuliah\PBO\Praktikum\TA UAS\WikiPenyakit\bin\Debug\Penyakit\DatabasePenyakit_log.ldf
+D:\Materi Kuliah\PBO\Praktikum\TA UAS\WikiPenyakit\bin\Debug\WikiPenyakit.exe.config
+D:\Materi Kuliah\PBO\Praktikum\TA UAS\WikiPenyakit\bin\Debug\WikiPenyakit.exe.manifest
+D:\Materi Kuliah\PBO\Praktikum\TA UAS\WikiPenyakit\bin\Debug\WikiPenyakit.application
+D:\Materi Kuliah\PBO\Praktikum\TA UAS\WikiPenyakit\bin\Debug\WikiPenyakit.exe
+D:\Materi Kuliah\PBO\Praktikum\TA UAS\WikiPenyakit\bin\Debug\WikiPenyakit.pdb
+D:\Materi Kuliah\PBO\Praktikum\TA UAS\WikiPenyakit\bin\Debug\EntityFramework.dll
+D:\Materi Kuliah\PBO\Praktikum\TA UAS\WikiPenyakit\bin\Debug\EntityFramework.SqlServer.dll
+D:\Materi Kuliah\PBO\Praktikum\TA UAS\WikiPenyakit\bin\Debug\EntityFramework.xml
+D:\Materi Kuliah\PBO\Praktikum\TA UAS\WikiPenyakit\bin\Debug\EntityFramework.SqlServer.xml
+D:\Materi Kuliah\PBO\Praktikum\TA UAS\WikiPenyakit\obj\Debug\TugasPBO.csprojResolveAssemblyReference.cache
+D:\Materi Kuliah\PBO\Praktikum\TA UAS\WikiPenyakit\obj\Debug\TugasPBO.FormLain.EditPenyakitForm.resources
+D:\Materi Kuliah\PBO\Praktikum\TA UAS\WikiPenyakit\obj\Debug\TugasPBO.FormLain.LoginForm.resources
+D:\Materi Kuliah\PBO\Praktikum\TA UAS\WikiPenyakit\obj\Debug\TugasPBO.FormLain.RegisterForm.resources
+D:\Materi Kuliah\PBO\Praktikum\TA UAS\WikiPenyakit\obj\Debug\TugasPBO.MainForm.resources
+D:\Materi Kuliah\PBO\Praktikum\TA UAS\WikiPenyakit\obj\Debug\TugasPBO.Properties.Resources.resources
+D:\Materi Kuliah\PBO\Praktikum\TA UAS\WikiPenyakit\obj\Debug\TugasPBO.csproj.GenerateResource.Cache
+D:\Materi Kuliah\PBO\Praktikum\TA UAS\WikiPenyakit\obj\Debug\TugasPBO.csproj.CoreCompileInputs.cache
+D:\Materi Kuliah\PBO\Praktikum\TA UAS\WikiPenyakit\obj\Debug\WikiPenyakit.exe.manifest
+D:\Materi Kuliah\PBO\Praktikum\TA UAS\WikiPenyakit\obj\Debug\WikiPenyakit.application
+D:\Materi Kuliah\PBO\Praktikum\TA UAS\WikiPenyakit\obj\Debug\WikiPenyakit.exe
+D:\Materi Kuliah\PBO\Praktikum\TA UAS\WikiPenyakit\obj\Debug\WikiPenyakit.pdb
